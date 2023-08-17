@@ -1,2 +1,2 @@
-This is my doubly linked list realisation on Java
+This is my doubly linked list realisation on Java.
 
